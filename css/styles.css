@@ -1,0 +1,31 @@
+html, body {
+	height: 100%;
+	background-image: url("../assets/background.jpg");
+	background-size: 100%;
+}
+
+body {
+	display: flex;
+	justify-content: center;
+}
+
+.container {
+	padding: 300px 0px;
+	margin: 0px;
+}
+
+.currenciesBlock > div {
+	padding-top: 10px;
+}
+
+.currenciesToAdd {
+	padding-top: 10px;
+}
+
+#btcAmount {
+	background-color: #F5F5DC;
+}
+
+h1 {
+	color: #ffff3a;
+}
